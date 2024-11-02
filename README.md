@@ -37,6 +37,10 @@ Mark Complete: Users can mark tasks as done.
 Edit Tasks: Users can edit any existing task.
 Persist Data: Saves tasks to local storage for continuity
 
+![Screenshot_2-11-2024_185238_](https://github.com/user-attachments/assets/a98d488b-7811-4a7c-8f4c-dce58d105715)
+
+
+
 
 
 
